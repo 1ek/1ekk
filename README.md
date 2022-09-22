@@ -1,4 +1,4 @@
-<h1  align='center' style="">Hi! <img style="width: 2.5rem; height: 2.5rem;" src="assets/emojibest_com_1880872076.gif">
+<h1  align='center' style="">Hi! <img style="width: 3rem; height: 3rem;" src="assets/emojibest_com_1880872076.gif">
 </h1>
 <p>
 I am 1ek! Trying to fsdfsdfdfsfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsfsdfsfsfsfsfsfsdfsfsfsfsf
