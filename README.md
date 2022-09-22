@@ -11,4 +11,4 @@
 <li>31312313131313</li>
 </ul>
 
-<img  align="right" src="https://github.com/1ekk/1ekk/blob/main/assets/emojibest_com_1883127845.gif">
+<img  width="300" align="right" src="https://github.com/1ekk/1ekk/blob/main/assets/emojibest_com_1883127845.gif">
