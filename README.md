@@ -2,14 +2,14 @@
 </h1>
 
 
-<h3 style = "padding-bottom: " align="center"><img align="center" style="width: 4rem; height: 4rem;" src="assets\emojibest_com_2052302749.gif">Trying Web Development <img align="center" style="width: 4rem; height: 4rem;" src="assets\emojibest_com_2052302749.gif">
+<h3 align="center">Trying Web Development 
 </h3>
 
 <img  width="300" align="right" src="https://github.com/1ekk/1ekk/blob/main/assets/emojibest_com_1883127845.gif">
 
 
 <h2>
-  🔧 Technologies & Tools
+  <img align="center" style="width: 4rem; height: 4rem;" src="assets\emojibest_com_2052302749.gif"> Technologies & Tools
 </h2>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"></a>
