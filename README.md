@@ -1,4 +1,4 @@
-<h1>&nbsp <img  width="300" align="right" src="assets\emojibest_com_525499338.gif"></h1>
+<h1>&nbsp <img  width="200"  src="assets\emojibest_com_header.gif"></h1>
 
 <h1  align='center' style="">Hi! <img style="width: 3rem; height: 3rem;" align="center" src="https://github.com/1ekk/1ekk/blob/main/assets/emojibest_com_1880872076.gif"> I'm 1ekk
 </h1>
@@ -27,10 +27,11 @@
   <a href="https://nodejs.org" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs"></a>
    <a href="https://vitejs.dev" target="_blank"><img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="vite"></a>
   <a href="https://webpack.js.org" target="_blank"><img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" alt="webpack"></a>
- 
-
- 
-  
-
 </p>
+
+<h2>
+   <img align="center" style="width: 2rem; height: 2rem;" src="assets\emojibest_com_stats.gif"> GitHub Stats
+</h2>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1ekk&theme=tokyonight&show_icons=true)
 
