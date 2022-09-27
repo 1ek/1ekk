@@ -35,6 +35,5 @@
 
 ![1ekk's GitHub stats](https://github-readme-stats.vercel.app/api?username=1ekk&theme=tokyonight&show_icons=true)
 
-
 ![1ekk's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=1ekk&layout=compact&theme=tokyonight&hide_border&bg_color:1A1A1A)
 
