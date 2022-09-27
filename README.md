@@ -34,7 +34,7 @@
 </h2>
 
 ![1ekk's GitHub stats](https://github-readme-stats.vercel.app/api?username=1ekk&theme=tokyonight&show_icons=true)
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=1ekk&layout=compact&theme=tokyonight&hide_border&bg_color:1A1A1A" target="_blank">1ekk's GitHub stats</a>
+<img href="https://github-readme-stats.vercel.app/api/top-langs/?username=1ekk&layout=compact&theme=tokyonight&hide_border&bg_color:1A1A1A" alt="1ekk's GitHub stats"/>
 
 
 
