@@ -4,7 +4,7 @@
 </h1>
 
 
-<h3 align="center">Trying Web Development 
+<h3 align="center">Dev
 </h3>
 
 <img  width="300" align="right" src="https://github.com/1ekk/1ekk/blob/main/assets/emojibest_com_1883127845.gif">
